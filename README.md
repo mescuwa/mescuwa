@@ -27,7 +27,7 @@ I am currently executing **Protocol Sephron**, a self-designed, intensive roadma
 
 ---
 
-###  toolbox Toolbox & Technology Stack
+###  My Tech Stack
 
 - **Languages:** Python, C++, SQL, LaTeX, Bash/Zsh
 - **AI & ML:** PyTorch, Transformers, Neural Network Architecture, Autonomous Agentic Systems, NLP, Vector Databases (LanceDB)
