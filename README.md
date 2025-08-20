@@ -38,3 +38,4 @@ I am currently executing **Protocol Sephron**, a self-designed, intensive roadma
 
 - **Email:** [`mescuwa@proton.me`](mailto:mescuwa@proton.me)
 - **Website:** [`mescuwa.fyi`](https://mescuwa.fyi)
+(please hire me :3)
