@@ -10,7 +10,6 @@
 
 I am currently executing **Protocol Sephron**, a self-designed, intensive roadmap to deepen my foundational expertise and bring my architectural visions to life. My primary objectives are:
 
-- **Formalizing my Computer Science education** with the goal of transferring to a top-tier university.
 - **Achieving mastery** in Python, Data Structures, Algorithms, and the core mathematics of AI.
 - **Refining my flagship projects** into robust, well-documented, and impactful systems.
 
